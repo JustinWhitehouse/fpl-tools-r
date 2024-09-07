@@ -2,6 +2,10 @@
 
 FPL data tools based on data found at endpoints described on the [instructions from GameChange](https://www.game-change.co.uk/2023/02/10/a-complete-guide-to-the-fantasy-premier-league-fpl-api/)
 
+## JSON Parser
+
+Useful reference: [https://stackoverflow.com/a/2062865](https://stackoverflow.com/a/2062865)
+
 ## game-change.co.uk
 
 *Copying the text here in case the web page disappears in future.*
